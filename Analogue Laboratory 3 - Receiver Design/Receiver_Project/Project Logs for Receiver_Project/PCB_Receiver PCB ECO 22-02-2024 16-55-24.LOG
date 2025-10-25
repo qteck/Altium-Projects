@@ -1,0 +1,97 @@
+Removed Member From Class: ClassName=R9_Nets Member=NetC1_1
+Removed Member From Class: ClassName=U3_Nets Member=NetC1_1
+Removed Member From Class: ClassName=C2_Nets Member=NetC13_2
+Removed Member From Class: ClassName=C1_Nets Member=NetC14_1
+Removed Member From Class: ClassName=R4_Nets Member=NetC14_1
+Removed Member From Class: ClassName=U4_Nets Member=NetC14_1
+Removed Member From Class: ClassName=C1_Nets Member=NetC14_2
+Removed Member From Class: ClassName=C10_Nets Member=NetC14_2
+Removed Member From Class: ClassName=R4_Nets Member=NetC14_2
+Removed Member From Class: ClassName=U4_Nets Member=NetC14_2
+Removed Member From Class: ClassName=C32_Nets Member=NetC28_1
+Removed Member From Class: ClassName=C33_Nets Member=NetC28_1
+Removed Member From Class: ClassName=C34_Nets Member=NetC28_1
+Removed Member From Class: ClassName=U6_Nets Member=NetC28_1
+Removed Member From Class: ClassName=R14_Nets Member=NetC29_2
+Removed Member From Class: ClassName=R17_Nets Member=NetR13_2
+Removed Member From Class: ClassName=R1_Nets Member=NetR18_2
+Removed Member From Class: ClassName=SW1_Nets Member=NetR18_2
+Removed Member From Class: ClassName=U1_Nets Member=NetR18_2
+Change Component Footprint: Designator=U7 Old Footprint=Z03A New Footprint=NDE0003A
+Change Component Comment : Designator=U7 Old Comment=LM79L12ACZ New Comment=LM79L12
+Change Managed Component Library Link : Designator=U7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=83AAD3B4-64D8-4BE9-AA6D-3F5DF29BF2A4 New ItemGUID=71F58531-3628-4ABB-982E-0514152E9CE2 Old RevisionGUID=F8E9C953-32DC-4BA6-9123-079DCE294A32 New RevisionGUID=49DCA9A4-B443-4A07-91E2-DAF3A659FB69
+Change component parameters: Designator = "U7" ("U7"); Footprint = "Z03A"; UniqueID = "\KTJGQXLC" ("\KTJGQXLC")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEITA"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM7912&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "LDO IC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "High-Reliability"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "TO-220, Molded, 3 Lead, Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "NDE0003A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYTTE#*LM7912CT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change Class Name : Old Net Name=C11_Nets New Net Name=D1_Nets
+Change Class Name : Old Net Name=C24_Nets New Net Name=C29_Nets
+Added Class: Name=C11_Nets
+Added Class: Name=C24_Nets
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C1 8p
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C4 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C9 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C10 22n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C12 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C13 100p
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C15 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C17 2.2u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C19 2.2u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C20 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C21 2.2u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C22 100p
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C28 1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C29 47n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C30 2.2u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C31 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C32 47uF
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C33 100uF
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C34 100uF
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C36 0.1u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component DS1 HLMP-4740
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R1 3362P-1-104LF-100k
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R3 1k
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R4 3k3
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R8 270
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R9 270
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R10 270
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R12 4k7
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R15 2k2
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R17 1k5
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R19 10
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R21 33K
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component U2 LM6171
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component U5 LM78L12ACZ
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component U6 LM386N-1
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component U7 LM79L12
+Added Member To Class: ClassName=C1_Nets Member=Wire NetC1_1
+Added Member To Class: ClassName=R4_Nets Member=Wire NetC1_1
+Added Member To Class: ClassName=U4_Nets Member=Wire NetC1_1
+Added Member To Class: ClassName=C1_Nets Member=Wire NetC1_2
+Added Member To Class: ClassName=C10_Nets Member=Wire NetC1_2
+Added Member To Class: ClassName=R4_Nets Member=Wire NetC1_2
+Added Member To Class: ClassName=U4_Nets Member=Wire NetC1_2
+Added Member To Class: ClassName=R9_Nets Member=Wire NetC11_1
+Added Member To Class: ClassName=U3_Nets Member=Wire NetC11_1
+Added Member To Class: ClassName=U6_Nets Member=Wire NetC24_1
+Added Member To Class: ClassName=R14_Nets Member=Wire NetC24_2
+Added Member To Class: ClassName=C32_Nets Member=Wire NetC29_1
+Added Member To Class: ClassName=C33_Nets Member=Wire NetC29_1
+Added Member To Class: ClassName=C34_Nets Member=Wire NetC29_1
+Added Member To Class: ClassName=R1_Nets Member=Wire NetR1_2
+Added Member To Class: ClassName=SW1_Nets Member=Wire NetR1_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetR1_2
+Added Member To Class: ClassName=R17_Nets Member=Wire NetR17_2
+Added Member To Class: ClassName=SW1_Nets Member=Wire NetR17_2

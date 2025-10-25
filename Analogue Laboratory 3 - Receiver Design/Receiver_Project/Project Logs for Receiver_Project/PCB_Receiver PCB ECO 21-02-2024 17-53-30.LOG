@@ -1,0 +1,145 @@
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C16-2
+Removed Pin From Net: NetName=GND Pin=C18-2
+Removed Pin From Net: NetName=GND Pin=C19-2
+Removed Pin From Net: NetName=GND Pin=C21-2
+Removed Pin From Net: NetName=GND Pin=C24-1
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=GND Pin=C61-2
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=R19-3
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U5-2
+Removed Pin From Net: NetName=GND Pin=U6-1
+Removed Pin From Net: NetName=GND Pin=U6-2
+Removed Pin From Net: NetName=GND Pin=U6-6
+Removed Pin From Net: NetName=GND Pin=U6-8
+Removed Pin From Net: NetName=GND Pin=U7-1
+Removed Member From Class: ClassName=A4_Receiver_Design_PCB Member=C16
+Removed Member From Class: ClassName=A4_Receiver_Design_PCB Member=C18
+Removed Member From Class: ClassName=A4_Receiver_Design_PCB Member=C21
+Removed Member From Class: ClassName=A4_Receiver_Design_PCB Member=C61
+Add Pin To Net: Unknown Pin: Pin C36-1
+Add Pin To Net: Unknown Pin: Pin C36-2
+Add Pin To Net: Unknown Pin: Pin C39-1
+Add Pin To Net: Unknown Pin: Pin C39-2
+Add Pin To Net: Unknown Pin: Pin C41-1
+Add Pin To Net: Unknown Pin: Pin C41-2
+Add Pin To Net: Unknown Pin: Pin C43-1
+Add Pin To Net: Unknown Pin: Pin C43-2
+Add Pin To Net: Unknown Pin: Pin C44-1
+Add Pin To Net: Unknown Pin: Pin C44-2
+Add Pin To Net: Unknown Pin: Pin C45-1
+Add Pin To Net: Unknown Pin: Pin C45-2
+Add Pin To Net: Unknown Pin: Pin C46-1
+Add Pin To Net: Unknown Pin: Pin C46-2
+Add Pin To Net: Unknown Pin: Pin C47-1
+Add Pin To Net: Unknown Pin: Pin C47-2
+Add Pin To Net: Unknown Pin: Pin C48-1
+Add Pin To Net: Unknown Pin: Pin C48-2
+Add Pin To Net: Unknown Pin: Pin C49-1
+Add Pin To Net: Unknown Pin: Pin C49-2
+Add Pin To Net: Unknown Pin: Pin C50-2
+Add Pin To Net: Unknown Pin: Pin C52-1
+Add Pin To Net: Unknown Pin: Pin C52-2
+Add Pin To Net: Unknown Pin: Pin C55-1
+Add Pin To Net: Unknown Pin: Pin C55-2
+Add Pin To Net: Unknown Pin: Pin C57-1
+Add Pin To Net: Unknown Pin: Pin C57-2
+Add Pin To Net: Unknown Pin: Pin C60-2
+Add Pin To Net: Unknown Pin: Pin C63-1
+Add Pin To Net: Unknown Pin: Pin C63-2
+Add Pin To Net: Unknown Pin: Pin C64-1
+Add Pin To Net: Unknown Pin: Pin C64-2
+Add Pin To Net: Unknown Pin: Pin C68-2
+Add Pin To Net: Unknown Pin: Pin C69-1
+Add Pin To Net: Unknown Pin: Pin C69-2
+Add Pin To Net: Unknown Pin: Pin C70-2
+Add Pin To Net: Unknown Pin: Pin C71-2
+Add Pin To Net: Unknown Pin: Pin R22-1
+Add Pin To Net: Unknown Pin: Pin R22-2
+Add Pin To Net: Unknown Pin: Pin R23-1
+Add Pin To Net: Unknown Pin: Pin R23-2
+Add Pin To Net: Unknown Pin: Pin R24-1
+Add Pin To Net: Unknown Pin: Pin R24-2
+Add Pin To Net: Unknown Pin: Pin R25-2
+Add Pin To Net: Unknown Pin: Pin R26-1
+Add Pin To Net: Unknown Pin: Pin R27-1
+Add Pin To Net: Unknown Pin: Pin R27-2
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R28-2
+Add Pin To Net: Unknown Pin: Pin R29-1
+Add Pin To Net: Unknown Pin: Pin R29-2
+Add Pin To Net: Unknown Pin: Pin R30-1
+Add Pin To Net: Unknown Pin: Pin R30-2
+Add Pin To Net: Unknown Pin: Pin R31-1
+Add Pin To Net: Unknown Pin: Pin R31-2
+Add Pin To Net: Unknown Pin: Pin R32-1
+Add Pin To Net: Unknown Pin: Pin R32-2
+Add Pin To Net: Unknown Pin: Pin R34-2
+Add Pin To Net: Unknown Pin: Pin R35-1
+Add Pin To Net: Unknown Pin: Pin R35-2
+Add Pin To Net: Unknown Pin: Pin R36-1
+Add Pin To Net: Unknown Pin: Pin R36-2
+Add Pin To Net: Unknown Pin: Pin R37-1
+Add Pin To Net: Unknown Pin: Pin R37-2
+Add Pin To Net: Unknown Pin: Pin R38-1
+Add Pin To Net: Unknown Pin: Pin R38-2
+Add Pin To Net: Unknown Pin: Pin R39-1
+Add Pin To Net: Unknown Pin: Pin R39-2
+Add Pin To Net: Unknown Pin: Pin R41-1
+Add Pin To Net: Unknown Pin: Pin R41-2
+Added Pin To Net: NetName=GND Pin=U13-4
+Added Net: Name=NetC60_1
+Added Net: Name=NetC68_1
+Add Class Member: Failed to add class member : Component C36 Capacitor
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component C37 2.2u
+Add Class Member: Failed to add class member : Component C39 Capacitor
+Add Class Member: Failed to add class member : Component C41 Capacitor
+Add Class Member: Failed to add class member : Component C43 Capacitor
+Add Class Member: Failed to add class member : Component C44 Capacitor
+Add Class Member: Failed to add class member : Component C45 Capacitor
+Add Class Member: Failed to add class member : Component C46 Capacitor
+Add Class Member: Failed to add class member : Component C47 Capacitor
+Add Class Member: Failed to add class member : Component C48 Capacitor
+Add Class Member: Failed to add class member : Component C49 Capacitor
+Add Class Member: Failed to add class member : Component C50 Capacitor
+Add Class Member: Failed to add class member : Component C52 Capacitor
+Add Class Member: Failed to add class member : Component C55 Capacitor
+Add Class Member: Failed to add class member : Component C57 Capacitor
+Add Class Member: Failed to add class member : Component C60 Capacitor
+Add Class Member: Failed to add class member : Component C63 Capacitor
+Add Class Member: Failed to add class member : Component C64 Capacitor
+Add Class Member: Failed to add class member : Component C68 Capacitor
+Add Class Member: Failed to add class member : Component C69 Capacitor
+Add Class Member: Failed to add class member : Component C70 Capacitor
+Add Class Member: Failed to add class member : Component C71 Capacitor
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component D4 BPV10
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component D5 1N4007
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component DS4 HLMP-4740
+Add Class Member: Failed to add class member : Component R22 Resistor
+Add Class Member: Failed to add class member : Component R23 Resistor
+Add Class Member: Failed to add class member : Component R24 Resistor
+Add Class Member: Failed to add class member : Component R25 Resistor
+Add Class Member: Failed to add class member : Component R26 Resistor
+Add Class Member: Failed to add class member : Component R27 Resistor
+Add Class Member: Failed to add class member : Component R28 Resistor
+Add Class Member: Failed to add class member : Component R29 Resistor
+Add Class Member: Failed to add class member : Component R30 Resistor
+Add Class Member: Failed to add class member : Component R31 Resistor
+Add Class Member: Failed to add class member : Component R32 Resistor
+Add Class Member: Failed to add class member : Component R34 Resistor
+Add Class Member: Failed to add class member : Component R35 Resistor
+Add Class Member: Failed to add class member : Component R36 Resistor
+Add Class Member: Failed to add class member : Component R37 Resistor
+Add Class Member: Failed to add class member : Component R38 Resistor
+Add Class Member: Failed to add class member : Component R39 Resistor
+Add Class Member: Failed to add class member : Component R41 Resistor

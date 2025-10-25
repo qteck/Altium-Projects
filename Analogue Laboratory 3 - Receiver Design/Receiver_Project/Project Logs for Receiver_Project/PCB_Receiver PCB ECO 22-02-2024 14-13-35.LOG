@@ -1,0 +1,52 @@
+Removed Pin From Net: NetName=NetC13_1 Pin=C24-1
+Removed Pin From Net: NetName=NetC13_1 Pin=C24-2
+Removed Member From Class: ClassName=C24_Nets Member=NetC13_1
+Removed Member From Class: ClassName=C25_Nets Member=NetC25_1
+Removed Member From Class: ClassName=U6_Nets Member=NetC25_1
+Removed Member From Class: ClassName=C25_Nets Member=NetC25_2
+Removed Member From Class: ClassName=R14_Nets Member=NetC25_2
+Change Component Designator: OldDesignator=C25 NewDesignator=C24
+Added Component: Designator=C25(FP-562R5GAS10-MFG)
+Add component (AddParameter): Name = "Application(s)"; Value = "GENERAL PURPOSE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "10nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "RADIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "12.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "Z5U"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dissipation Factor"; Value = "2.5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.25inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.613inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "0.64mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Length"; Value = "29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "9.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead/Base Style"; Value = "Straight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "250"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "Cera-Mite 562R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "1kV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "1kV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "1kV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.01lb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=+12V Pin=C25-2
+Change Net Name : Old Net Name=NetC25_1 New Net Name=NetC24_1
+Change Net Name : Old Net Name=NetC25_2 New Net Name=NetC24_2
+Added Member To Class: ClassName=C25_Nets Member=Wire +12V
+Added Member To Class: ClassName=C25_Nets Member=Wire GND
+Added Member To Class: ClassName=C24_Nets Member=Wire NetC24_1
+Added Member To Class: ClassName=U6_Nets Member=Wire NetC24_1
+Added Member To Class: ClassName=C24_Nets Member=Wire NetC24_2
+Added Member To Class: ClassName=R14_Nets Member=Wire NetC24_2

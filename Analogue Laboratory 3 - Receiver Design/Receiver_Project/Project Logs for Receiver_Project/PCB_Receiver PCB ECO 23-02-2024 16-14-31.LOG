@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetC23_1 Pin=TP1-TP
+Removed Member From Class: ClassName=TP2_Nets Member=NetC23_1
+Change Component Designator: OldDesignator=TP2 NewDesignator=TP4
+Change Component Description : Designator=TP1 Old Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver New Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000
+Change Component Description : Designator=TP4 Old Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver New Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000
+Added Component: Designator=TP2(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP3(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ1_2 Pin=TP1-TP
+Added Pin To Net: NetName=NetC14_2 Pin=TP2-TP
+Added Pin To Net: NetName=NetC1_2 Pin=TP3-TP
+Change Class Name : Old Net Name=TP1_Nets New Net Name=TP4_Nets
+Added Class: Name=TP1_Nets
+Added Class: Name=TP3_Nets
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component TP3 5000
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component TP4 5000
+Added Member To Class: ClassName=TP2_Nets Member=Wire NetC14_2

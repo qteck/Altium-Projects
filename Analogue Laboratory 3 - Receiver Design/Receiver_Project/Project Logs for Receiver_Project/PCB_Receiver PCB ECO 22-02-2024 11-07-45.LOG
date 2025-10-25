@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=NetR2_1 Pin=U2-2
+Removed Pin From Net: NetName=NetC22_1 Pin=U2-3
+Removed Pin From Net: NetName=-12V Pin=U2-4
+Removed Pin From Net: NetName=NetC13_2 Pin=U2-6
+Removed Pin From Net: NetName=+12V Pin=U2-7
+Change Component Footprint: Designator=U1 Old Footprint=D0008A_N New Footprint=P0008A
+Change Component Footprint: Designator=U3 Old Footprint=D0008A_N New Footprint=P0008A
+Change Component Comment : Designator=U6 Old Comment=LM6171BIN/NOPB New Comment=LM6171
+Change Component Designator: OldDesignator=U6 NewDesignator=U2
+Change Component Designator: OldDesignator=U7 NewDesignator=U6
+Change Component Designator: OldDesignator=U8 NewDesignator=U7
+Change Managed Component Library Link : Designator=U1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D4A70D40-9010-43CF-9FEA-6FC7791B1783 New ItemGUID=413B1B43-6F6F-40BB-B18D-6A2671F82646 Old RevisionGUID=A16DFCD7-BC63-42A6-8F1E-798DBD5EFCE2 New RevisionGUID=51480946-4B43-42C5-8BCC-4AC972C96E23
+Change Managed Component Library Link : Designator=U3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D4A70D40-9010-43CF-9FEA-6FC7791B1783 New ItemGUID=413B1B43-6F6F-40BB-B18D-6A2671F82646 Old RevisionGUID=A16DFCD7-BC63-42A6-8F1E-798DBD5EFCE2 New RevisionGUID=51480946-4B43-42C5-8BCC-4AC972C96E23
+Change component parameters: Designator = "U1" ("U1"); Footprint = "D0008A_N"; UniqueID = "\CTERYALZ" ("\CTERYALZ")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-001-BA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEITA"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM6171&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "Amplifiers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "High-Reliability"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "P0008A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "MDIP, .365 x .250 x .130in, 8 Lead, .100in Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYTTE#*LM6171*BIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerWise"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3" ("U3"); Footprint = "D0008A_N"; UniqueID = "\HNJMKAQQ" ("\HNJMKAQQ")
+Change component parameters (AddParameter): Name = "Code_IPC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-001-BA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Code_JEITA"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=LM6171&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "Amplifiers"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "High-Reliability"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "P0008A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "MDIP, .365 x .250 x .130in, 8 Lead, .100in Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYTTE#*LM6171*BIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerWise"; Value = "Y"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR2_1 Pin=U2-2
+Added Pin To Net: NetName=NetC22_1 Pin=U2-3
+Added Pin To Net: NetName=-12V Pin=U2-4
+Added Pin To Net: NetName=NetC13_2 Pin=U2-6
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component U6 LM386N-1

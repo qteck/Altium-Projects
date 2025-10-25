@@ -1,0 +1,372 @@
+Removed Pin From Net: NetName=NetC1_1 Pin=C1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Pin From Net: NetName=NetC11_1 Pin=C11-1
+Removed Pin From Net: NetName=NetC12_1 Pin=C12-1
+Removed Pin From Net: NetName=NetC12_2 Pin=C12-2
+Removed Pin From Net: NetName=NetC1_1 Pin=D1-1
+Removed Pin From Net: NetName=NetDS1_2 Pin=DS1-2
+Removed Pin From Net: NetName=NetDS2_1 Pin=DS2-1
+Removed Pin From Net: NetName=NetLED1_1 Pin=LED1-1
+Removed Pin From Net: NetName=NetLED2_2 Pin=LED2-2
+Removed Pin From Net: NetName=NetR16_2 Pin=SW1-2
+Removed Pin From Net: NetName=NetC1_1 Pin=U3-2
+Removed Pin From Net: NetName=NetC1_2 Pin=U3-6
+Removed Pin From Net: NetName=NetR13_2 Pin=U5-2
+Removed Pin From Net: NetName=NetR16_2 Pin=U6-6
+Removed Pin From Net: NetName=NetC29_2 Pin=U7-5
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=C1
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=C3
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=C4
+Removed Member From Class: ClassName=A4_Receiver_Design_PCB Member=C36
+Removed Member From Class: ClassName=A4_Receiver_Design_PCB Member=C37
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=C?
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=D?
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=DS1
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=LED1
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=P1
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=R19 TRIMMER 10K
+Removed Member From Class: ClassName=A4_Receiver_Design_PCB Member=R?
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=U3
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=U4
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=U5
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=U6
+Change Component Designator: OldDesignator=C1 NewDesignator=C34
+Change Component Designator: OldDesignator=C2 NewDesignator=C35
+Change Component Designator: OldDesignator=C2 NewDesignator=C37
+Change Component Designator: OldDesignator=C3 NewDesignator=C24
+Change Component Designator: OldDesignator=C4 NewDesignator=C25
+Change Component Designator: OldDesignator=C5 NewDesignator=C53
+Change Component Designator: OldDesignator=C7 NewDesignator=C40
+Change Component Designator: OldDesignator=C11 NewDesignator=C56
+Change Component Designator: OldDesignator=C12 NewDesignator=C42
+Change Component Designator: OldDesignator=C15 NewDesignator=C54
+Change Component Designator: OldDesignator=C19 NewDesignator=C38
+Change Component Designator: OldDesignator=C22 NewDesignator=C51
+Change Component Designator: OldDesignator=C25 NewDesignator=C67
+Change Component Designator: OldDesignator=C28 NewDesignator=C61
+Change Component Designator: OldDesignator=C34 NewDesignator=C66
+Change Component Designator: OldDesignator=C35 NewDesignator=C65
+Change Component Designator: OldDesignator=C36 NewDesignator=C59
+Change Component Designator: OldDesignator=C37 NewDesignator=C58
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C18
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=C? NewDesignator=C21
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D1 NewDesignator=D4
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=D2 NewDesignator=D5
+Change Component Designator: OldDesignator=D3 NewDesignator=D6
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=DS1 NewDesignator=DS2
+Change Component Designator: OldDesignator=DS1 NewDesignator=DS3
+Change Component Designator: OldDesignator=DS2 NewDesignator=DS1
+Change Component Designator: OldDesignator=DS2 NewDesignator=DS4
+Change Component Designator: OldDesignator=LED1 NewDesignator=LED3
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED4
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=R15 NewDesignator=R40
+Change Component Designator: OldDesignator=R19 TRIMMER 10K NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R33
+Change Component Designator: OldDesignator=SW1 NewDesignator=SW2
+Change Component Designator: OldDesignator=U1 NewDesignator=U7
+Change Component Designator: OldDesignator=U1 NewDesignator=U12
+Change Component Designator: OldDesignator=U2 NewDesignator=U5
+Change Component Designator: OldDesignator=U2 NewDesignator=U14
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U3 NewDesignator=U11
+Change Component Designator: OldDesignator=U4 NewDesignator=U2
+Change Component Designator: OldDesignator=U4 NewDesignator=U9
+Change Component Designator: OldDesignator=U5 NewDesignator=U3
+Change Component Designator: OldDesignator=U5 NewDesignator=U10
+Change Component Designator: OldDesignator=U6 NewDesignator=U1
+Change Component Designator: OldDesignator=U6 NewDesignator=U8
+Change Component Designator: OldDesignator=U7 NewDesignator=U6
+Change Component Designator: OldDesignator=U7 NewDesignator=U13
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin C15-2
+Add Pin To Net: Unknown Pin: Pin C17-2
+Add Pin To Net: Unknown Pin: Pin C20-2
+Add Pin To Net: Unknown Pin: Pin C22-2
+Add Pin To Net: Unknown Pin: Pin C23-2
+Add Pin To Net: Unknown Pin: Pin C26-2
+Add Pin To Net: Unknown Pin: Pin C28-2
+Add Pin To Net: Unknown Pin: Pin C29-1
+Add Pin To Net: Unknown Pin: Pin C29-2
+Add Pin To Net: Unknown Pin: Pin C30-1
+Add Pin To Net: Unknown Pin: Pin C30-2
+Add Pin To Net: Unknown Pin: Pin C31-1
+Add Pin To Net: Unknown Pin: Pin C31-2
+Add Pin To Net: Unknown Pin: Pin C32-1
+Add Pin To Net: Unknown Pin: Pin C32-2
+Add Pin To Net: Unknown Pin: Pin C33-2
+Added Pin To Net: NetName=GND Pin=C34-2
+Add Pin To Net: Unknown Pin: Pin C39-1
+Add Pin To Net: Unknown Pin: Pin C39-2
+Add Pin To Net: Unknown Pin: Pin C41-1
+Add Pin To Net: Unknown Pin: Pin C41-2
+Added Pin To Net: NetName=+12V Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C42-2
+Add Pin To Net: Unknown Pin: Pin C43-1
+Add Pin To Net: Unknown Pin: Pin C43-2
+Add Pin To Net: Unknown Pin: Pin C44-1
+Add Pin To Net: Unknown Pin: Pin C44-2
+Add Pin To Net: Unknown Pin: Pin C46-2
+Add Pin To Net: Unknown Pin: Pin C48-2
+Add Pin To Net: Unknown Pin: Pin C50-2
+Add Pin To Net: Unknown Pin: Pin C52-1
+Add Pin To Net: Unknown Pin: Pin C52-2
+Added Pin To Net: NetName=-12V Pin=C54-1
+Add Pin To Net: Unknown Pin: Pin C55-1
+Add Pin To Net: Unknown Pin: Pin C55-2
+Added Pin To Net: NetName=-12V Pin=C56-1
+Add Pin To Net: Unknown Pin: Pin C57-1
+Add Pin To Net: Unknown Pin: Pin C57-2
+Add Pin To Net: Unknown Pin: Pin C60-2
+Add Pin To Net: Unknown Pin: Pin C62-2
+Add Pin To Net: Unknown Pin: Pin C63-2
+Add Pin To Net: Unknown Pin: Pin C68-1
+Add Pin To Net: Unknown Pin: Pin C69-1
+Add Pin To Net: Unknown Pin: Pin C69-2
+Add Pin To Net: Unknown Pin: Pin C70-1
+Add Pin To Net: Unknown Pin: Pin C71-1
+Added Pin To Net: NetName=NetC1_1 Pin=D1-1
+Added Pin To Net: NetName=NetDS1_2 Pin=DS1-2
+Added Pin To Net: NetName=NetDS2_1 Pin=DS2-1
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Add Pin To Net: Unknown Pin: Pin R16-2
+Add Pin To Net: Unknown Pin: Pin R17-1
+Add Pin To Net: Unknown Pin: Pin R17-2
+Add Pin To Net: Unknown Pin: Pin R18-1
+Add Pin To Net: Unknown Pin: Pin R18-2
+Add Pin To Net: Unknown Pin: Pin R20-2
+Add Pin To Net: Unknown Pin: Pin R27-1
+Add Pin To Net: Unknown Pin: Pin R28-1
+Add Pin To Net: Unknown Pin: Pin R35-2
+Add Pin To Net: Unknown Pin: Pin R36-2
+Add Pin To Net: Unknown Pin: Pin R37-1
+Add Pin To Net: Unknown Pin: Pin R38-1
+Add Pin To Net: Unknown Pin: Pin R41-2
+Added Pin To Net: NetName=NetR16_2 Pin=SW1-1
+Added Pin To Net: NetName=NetR13_2 Pin=SW1-3
+Added Pin To Net: NetName=NetC1_1 Pin=U4-2
+Added Pin To Net: NetName=NetC1_2 Pin=U4-6
+Added Pin To Net: NetName=NetC29_2 Pin=U6-5
+Change Net Name : Old Net Name=NetC35_1 New Net Name=NetC65_1
+Change Net Name : Old Net Name=NetD1_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetR19 TRIMMER 10K_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR21_2
+Add Net: Net with name "+12V" already exists
+Add Net: Net with name "-12V" already exists
+Added Net: Name=NetC23_1
+Added Net: Name=NetC28_1
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=NetC34_1 Pin=D3-1
+Added Pin To Net: NetName=NetC34_1 Pin=U7-2
+Added Net: Name=NetC34_1
+Added Pin To Net: NetName=NetC36_1 Pin=D4-1
+Added Pin To Net: NetName=NetC36_1 Pin=U11-2
+Added Net: Name=NetC36_1
+Added Pin To Net: NetName=NetC36_2 Pin=U11-6
+Added Net: Name=NetC36_2
+Added Pin To Net: NetName=NetC45_2 Pin=R33-1
+Added Net: Name=NetC45_2
+Added Pin To Net: NetName=NetC46_1 Pin=U9-3
+Added Net: Name=NetC46_1
+Added Pin To Net: NetName=NetC47_1 Pin=U9-6
+Added Net: Name=NetC47_1
+Added Net: Name=NetC47_2
+Added Pin To Net: NetName=NetC48_1 Pin=U10-3
+Added Net: Name=NetC48_1
+Added Pin To Net: NetName=NetC49_1 Pin=U10-6
+Added Net: Name=NetC49_1
+Added Net: Name=NetC49_2
+Added Pin To Net: NetName=NetC61_1 Pin=C61-1
+Added Pin To Net: NetName=NetC61_1 Pin=U13-4
+Added Net: Name=NetC61_1
+Added Net: Name=NetC63_1
+Added Net: Name=NetC64_1
+Added Pin To Net: NetName=NetC64_2 Pin=U13-5
+Added Net: Name=NetC64_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=LED3-2
+Added Pin To Net: NetName=NetD5_2 Pin=P2-4
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetDS3_2 Pin=DS3-2
+Added Net: Name=NetDS3_2
+Added Pin To Net: NetName=NetDS4_1 Pin=DS4-1
+Added Net: Name=NetDS4_1
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Net: Name=NetLED3_1
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetR1_1 Pin=U2-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR2_1 Pin=U3-2
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR3_1 Pin=U1-2
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR3_2 Pin=SW1-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-6
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR21_1 Pin=R21-1
+Added Pin To Net: NetName=NetR21_1 Pin=U8-2
+Added Net: Name=NetR21_1
+Added Pin To Net: NetName=NetR22_1 Pin=U9-2
+Added Net: Name=NetR22_1
+Added Pin To Net: NetName=NetR23_1 Pin=U10-2
+Added Net: Name=NetR23_1
+Added Pin To Net: NetName=NetR34_2 Pin=SW2-3
+Added Net: Name=NetR34_2
+Added Pin To Net: NetName=NetR39_2 Pin=SW2-1
+Added Net: Name=NetR39_2
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=U13-3
+Added Net: Name=NetR40_2
+Change Class Name : Old Net Name=A4_Receiver_Design_PCB New Net Name=Receiver_Design_PCB
+Change Class Name : Old Net Name=Receiver_Design_PCB New Net Name=A4_Receiver_Design_PCB
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C8 Capacitor
+Add Class Member: Failed to add class member : Component C9 Capacitor
+Add Class Member: Failed to add class member : Component C10 Capacitor
+Add Class Member: Failed to add class member : Component C13 Capacitor
+Add Class Member: Failed to add class member : Component C14 Capacitor
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C16 2.2u
+Add Class Member: Failed to add class member : Component C17 Capacitor
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C18 2.2u
+Add Class Member: Failed to add class member : Component C20 Capacitor
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C21 2.2u
+Add Class Member: Failed to add class member : Component C23 Capacitor
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C24 0.33u
+Add Class Member: Failed to add class member : Component C26 Capacitor
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C27 2.2u
+Add Class Member: Failed to add class member : Component C29 Capacitor
+Add Class Member: Failed to add class member : Component C30 Capacitor
+Add Class Member: Failed to add class member : Component C31 Capacitor
+Add Class Member: Failed to add class member : Component C32 Capacitor
+Add Class Member: Failed to add class member : Component C33 Capacitor
+Add Class Member: Failed to add class member : Component C36 Capacitor
+Add Class Member: Failed to add class member : Component C39 Capacitor
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component C40 2.2u
+Add Class Member: Failed to add class member : Component C41 Capacitor
+Add Class Member: Failed to add class member : Component C43 Capacitor
+Add Class Member: Failed to add class member : Component C44 Capacitor
+Add Class Member: Failed to add class member : Component C45 Capacitor
+Add Class Member: Failed to add class member : Component C46 Capacitor
+Add Class Member: Failed to add class member : Component C47 Capacitor
+Add Class Member: Failed to add class member : Component C48 Capacitor
+Add Class Member: Failed to add class member : Component C49 Capacitor
+Add Class Member: Failed to add class member : Component C50 Capacitor
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component C51 2.2u
+Add Class Member: Failed to add class member : Component C52 Capacitor
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component C53 2.2u
+Add Class Member: Failed to add class member : Component C55 Capacitor
+Add Class Member: Failed to add class member : Component C57 Capacitor
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component C58 0.33u
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component C59 0.1u
+Add Class Member: Failed to add class member : Component C60 Capacitor
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component C61 2.2u
+Add Class Member: Failed to add class member : Component C62 Capacitor
+Add Class Member: Failed to add class member : Component C63 Capacitor
+Add Class Member: Failed to add class member : Component C64 Capacitor
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component C65 0.33u
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component C66 0.1u
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component C67 2.2u
+Add Class Member: Failed to add class member : Component C68 Capacitor
+Add Class Member: Failed to add class member : Component C69 Capacitor
+Add Class Member: Failed to add class member : Component C70 Capacitor
+Add Class Member: Failed to add class member : Component C71 Capacitor
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component D6 1N4007
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component DS3 HLMP-4740
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component LED3 151031SS04000
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component P2 640456-4
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component R8 Resistor
+Add Class Member: Failed to add class member : Component R9 Resistor
+Add Class Member: Failed to add class member : Component R10 Resistor
+Add Class Member: Failed to add class member : Component R11 Resistor
+Add Class Member: Failed to add class member : Component R12 Resistor
+Add Class Member: Failed to add class member : Component R13 Resistor
+Add Class Member: Failed to add class member : Component R14 Resistor
+Add Class Member: Failed to add class member : Component R16 Resistor
+Add Class Member: Failed to add class member : Component R17 Resistor
+Add Class Member: Failed to add class member : Component R18 Resistor
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R19 3362P-1-103LF
+Add Class Member: Failed to add class member : Component R20 Resistor
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component R21 3362P-1-104LF-100k
+Add Class Member: Failed to add class member : Component R22 Resistor
+Add Class Member: Failed to add class member : Component R23 Resistor
+Add Class Member: Failed to add class member : Component R24 Resistor
+Add Class Member: Failed to add class member : Component R25 Resistor
+Add Class Member: Failed to add class member : Component R26 Resistor
+Add Class Member: Failed to add class member : Component R27 Resistor
+Add Class Member: Failed to add class member : Component R28 Resistor
+Add Class Member: Failed to add class member : Component R29 Resistor
+Add Class Member: Failed to add class member : Component R30 Resistor
+Add Class Member: Failed to add class member : Component R31 Resistor
+Add Class Member: Failed to add class member : Component R32 Resistor
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component R33 4k7
+Add Class Member: Failed to add class member : Component R34 Resistor
+Add Class Member: Failed to add class member : Component R35 Resistor
+Add Class Member: Failed to add class member : Component R36 Resistor
+Add Class Member: Failed to add class member : Component R37 Resistor
+Add Class Member: Failed to add class member : Component R38 Resistor
+Add Class Member: Failed to add class member : Component R39 Resistor
+Add Class Member: Failed to add class member : Component R41 Resistor
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component U8 LM6171
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component U9 LM6171
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component U10 LM6171
+Added Member To Class: ClassName=A4_Receiver_Design_PCB Member=Component U11 LM318N

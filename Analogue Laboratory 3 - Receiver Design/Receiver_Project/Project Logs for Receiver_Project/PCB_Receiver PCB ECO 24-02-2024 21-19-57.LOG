@@ -1,0 +1,32 @@
+Change Component Description : Designator=GND1 Old Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver New Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000
+Change Component Description : Designator=GND2 Old Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver New Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000
+Change Component Description : Designator=GND3 Old Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver New Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000
+Change Component Description : Designator=TP1 Old Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver New Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000
+Change Component Description : Designator=TP2 Old Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver New Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000
+Change Component Description : Designator=TP3 Old Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver New Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000
+Change Component Description : Designator=TP4 Old Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver New Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000
+Change Component Description : Designator=TP5 Old Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver New Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000
+Change Component Description : Designator=TP6 Old Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver New Description=Test Point Miniature THM H .300 Nylon 46 Insulated Red PhosBronze/Silver | Keystone Electronics 5000
+Change component parameters: Designator = "D4" ("D4"); Footprint = "LEDRD254W57D500H1070"; UniqueID = "\FUAKILBA" ("\FUAKILBA")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/L08R5000Q1/LED+Technology/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.54"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "LED Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "L08R5000Q1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/L08R5000Q1/LED+Technology/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6" ("D6"); Footprint = "LEDRD254W57D500H1070"; UniqueID = "\SRBHAYPE" ("\SRBHAYPE")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/L08R5000Q1/LED+Technology/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "LED Technology"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "L08R5000Q1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/L08R5000Q1/LED+Technology/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC28_1 Pin=R18-1
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component U4 LM318N
+Added Member To Class: ClassName=R18_Nets Member=Wire NetC28_1

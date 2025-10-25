@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetC29_1 Pin=C29-1
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=C29
+Removed Member From Class: ClassName=C32_Nets Member=NetC29_1
+Removed Member From Class: ClassName=C33_Nets Member=NetC29_1
+Removed Member From Class: ClassName=C34_Nets Member=NetC29_1
+Removed Member From Class: ClassName=U6_Nets Member=NetC29_1
+Removed Member From Class: ClassName=R19_Nets Member=NetC29_2
+Change Component Comment : Designator=C? Old Comment=R82DC4100DQ60J New Comment=47n
+Change Component Designator: OldDesignator=C? NewDesignator=CP?
+Added Pin To Net: NetName=NetC29_1 Pin=CP?-1
+Change Net Name : Old Net Name=NetC29_1 New Net Name=NetC32_2
+Added Pin To Net: NetName=NetCP?_2 Pin=CP?-2
+Added Pin To Net: NetName=NetCP?_2 Pin=R19-2
+Added Net: Name=NetCP?_2
+Added Class: Name=CP?_Nets
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component CP? 47n
+Added Member To Class: ClassName=C32_Nets Member=Wire NetC32_2
+Added Member To Class: ClassName=C33_Nets Member=Wire NetC32_2
+Added Member To Class: ClassName=C34_Nets Member=Wire NetC32_2
+Added Member To Class: ClassName=U6_Nets Member=Wire NetC32_2
+Added Member To Class: ClassName=R19_Nets Member=Wire NetCP?_2

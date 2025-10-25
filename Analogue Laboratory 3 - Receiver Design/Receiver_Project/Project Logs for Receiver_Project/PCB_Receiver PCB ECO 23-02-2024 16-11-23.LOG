@@ -1,0 +1,41 @@
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=SW1
+Removed Member From Class: ClassName=R1_Nets Member=NetR1_2
+Removed Member From Class: ClassName=U1_Nets Member=NetR1_2
+Removed Member From Class: ClassName=R13_Nets Member=NetR13_2
+Removed Member From Class: ClassName=R17_Nets Member=NetR17_2
+Added Component: Designator=TP1(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP2(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC23_1 Pin=TP1-TP
+Added Pin To Net: NetName=NetC23_1 Pin=TP2-TP
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R13-2
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U1-6
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=R17-2
+Added Net: Name=NetJ1_3
+Added Class: Name=TP2_Nets
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component TP1 5000
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component TP2 5000
+Added Member To Class: ClassName=J1_Nets Member=Wire NetJ1_1
+Added Member To Class: ClassName=R13_Nets Member=Wire NetJ1_1
+Added Member To Class: ClassName=J1_Nets Member=Wire NetJ1_2
+Added Member To Class: ClassName=R1_Nets Member=Wire NetJ1_2
+Added Member To Class: ClassName=U1_Nets Member=Wire NetJ1_2
+Added Member To Class: ClassName=J1_Nets Member=Wire NetJ1_3
+Added Member To Class: ClassName=R17_Nets Member=Wire NetJ1_3

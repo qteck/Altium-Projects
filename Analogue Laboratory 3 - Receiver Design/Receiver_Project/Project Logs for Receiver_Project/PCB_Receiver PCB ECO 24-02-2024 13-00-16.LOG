@@ -1,0 +1,191 @@
+Removed Member From Class: ClassName=C14_Nets Member=NetC15_1
+Removed Member From Class: ClassName=R10_Nets Member=NetC15_1
+Removed Member From Class: ClassName=R11_Nets Member=NetC15_1
+Removed Member From Class: ClassName=C14_Nets Member=NetC15_2
+Removed Member From Class: ClassName=R2_Nets Member=NetC15_2
+Removed Member From Class: ClassName=R8_Nets Member=NetC15_2
+Removed Member From Class: ClassName=TP4_Nets Member=NetC15_2
+Removed Member From Class: ClassName=U2_Nets Member=NetC15_2
+Removed Member From Class: ClassName=R11_Nets Member=NetC24_1
+Removed Member From Class: ClassName=U2_Nets Member=NetC24_1
+Removed Member From Class: ClassName=R13_Nets Member=NetC25_1
+Removed Member From Class: ClassName=TP5_Nets Member=NetC25_1
+Removed Member From Class: ClassName=C10_Nets Member=NetC26_2
+Removed Member From Class: ClassName=C25_Nets Member=NetC26_2
+Removed Member From Class: ClassName=R14_Nets Member=NetC26_2
+Change component parameters: Designator = "C2" ("C2"); Footprint = "FP-VY1470-MFG"; UniqueID = "\ZUBYZSCR" ("\ZUBYZSCR")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "8pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Construction"; Value = "RADIAL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dielectric"; Value = "Y5U"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.63inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Diameter"; Value = "0.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Length"; Value = "30mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead/Base Style"; Value = "Kinked"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistor Type"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "VY1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Thickness"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (AC)"; Value = "500V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "500V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "5mm"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPR51-254-508X318X736)
+Add component (AddParameter): Name = "Case\Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/docfinder?Partnumber=C320C104K5R5TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Dec-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "260 mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "8 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "150 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Body 5.08 x 3.18 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CAPR51-254-508X318X736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.8 mm"; VariantName = "[No Variations]"
+Added Component: Designator=C?(FP-K15H5-MFG)
+Add component (AddParameter): Name = "Capacitance"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "Dipped"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Construction"; Value = "RADIAL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Diameter"; Value = "500um"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.257inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Diameter"; Value = "0.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Length"; Value = "30mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead/Base Style"; Value = "Formed Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "2.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "50V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "0.005644oz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "2.5mm"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAPR51-254-508X318X736)
+Add component (AddParameter): Name = "Case\Package"; Value = "SOT-23-5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.kemet.com/docfinder?Partnumber=C320C104K5R5TA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Dec-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "260 mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "8 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "250 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "150 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Body 5.08 x 3.18 mm, Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CAPR51-254-508X318X736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "1.8 mm"; VariantName = "[No Variations]"
+Change Class Name : Old Net Name=C23_Nets New Net Name=C24_Nets
+Added Class: Name=C23_Nets
+Added Class: Name=C?_Nets
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C3 2.2u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C5 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C7 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C8 2.2u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C9 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C16 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C18 2.2u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C21 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C22 2.2u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C23 100p
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C24 22p
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C25 10u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C26 0.33u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C27 0.1u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C29 1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C30 2.2u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C32 47uF
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C33 100uF
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C34 100uF
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C35 0.33u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C? C320C104K5R5TA
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C? K104K15X7RF5TH5
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C? C320C104K5R5TA
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component D3 RED
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component D4 GREEN
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component D5 RED
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component D7 1N4007
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component GND3
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component P1 640456-4
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R2 1K
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R4 3k3
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R12 4k7
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R14 1k2
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R16 33K
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R17 1k5
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R18 3362P-1-103LF
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R19 10
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R20 2k2
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R21 33K
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component TP1 5000
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component TP3 5000
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component TP6 5000
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component U1 LM6171
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component U2 LM6171
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component U6 LM386N-1
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component U7 LM79L12
+Added Member To Class: ClassName=C14_Nets Member=Wire NetC14_1
+Added Member To Class: ClassName=R10_Nets Member=Wire NetC14_1
+Added Member To Class: ClassName=R11_Nets Member=Wire NetC14_1
+Added Member To Class: ClassName=C14_Nets Member=Wire NetC14_2
+Added Member To Class: ClassName=R2_Nets Member=Wire NetC14_2
+Added Member To Class: ClassName=R8_Nets Member=Wire NetC14_2
+Added Member To Class: ClassName=TP4_Nets Member=Wire NetC14_2
+Added Member To Class: ClassName=U2_Nets Member=Wire NetC14_2
+Added Member To Class: ClassName=R11_Nets Member=Wire NetC23_1
+Added Member To Class: ClassName=U2_Nets Member=Wire NetC23_1
+Added Member To Class: ClassName=R13_Nets Member=Wire NetC24_1
+Added Member To Class: ClassName=TP5_Nets Member=Wire NetC24_1
+Added Member To Class: ClassName=C25_Nets Member=Wire NetC25_2
+Added Member To Class: ClassName=R14_Nets Member=Wire NetC25_2

@@ -1,0 +1,22 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Variant [[No Variations]] of Project [Free Documents]
+   Generated File[PCB_Receiver_Copper_Signal_Top.gbr]
+   Generated File[PCB_Receiver_Copper_Signal_Bot.gbr]
+   Generated File[PCB_Receiver_Legend_Top.gbr]
+   Generated File[PCB_Receiver_Legend_Bot.gbr]
+   Generated File[PCB_Receiver_Soldermask_Top.gbr]
+   Generated File[PCB_Receiver_Soldermask_Bot.gbr]
+   Generated File[PCB_Receiver_Paste_Top.gbr]
+   Generated File[PCB_Receiver_Paste_Bot.gbr]
+   Generated File[PCB_Receiver_Profile.gbr]
+   Generated File[PCB_Receiver_NPTH_Drill.gbr]
+   Generated File[PCB_Receiver_PTH_Drill.gbr]
+   Generated File[PCB_Receiver.EXTREP]
+   Generated File[PCB_Receiver.REP]
+
+
+Files Generated   : 13
+Documents Printed : 0
+
+Finished Output Generation At 12:13:50 On 26/02/2024

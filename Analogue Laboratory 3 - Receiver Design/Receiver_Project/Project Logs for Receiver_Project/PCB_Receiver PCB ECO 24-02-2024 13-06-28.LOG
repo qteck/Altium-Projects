@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetC4_1 Pin=C4-1
+Removed Pin From Net: NetName=NetC4_2 Pin=C4-2
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=C4
+Removed Member From Class: ClassName=D1_Nets Member=NetC4_1
+Removed Member From Class: ClassName=R4_Nets Member=NetC4_1
+Removed Member From Class: ClassName=U4_Nets Member=NetC4_1
+Removed Member From Class: ClassName=C13_Nets Member=NetC4_2
+Removed Member From Class: ClassName=R4_Nets Member=NetC4_2
+Removed Member From Class: ClassName=TP3_Nets Member=NetC4_2
+Removed Member From Class: ClassName=U4_Nets Member=NetC4_2
+Change Component Comment : Designator=C3 Old Comment=K104K15X7RF5TH5 New Comment=8p
+Added Pin To Net: NetName=NetC4_1 Pin=C3-1
+Added Pin To Net: NetName=NetC4_2 Pin=C3-2
+Change Net Name : Old Net Name=NetC4_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC3_2
+Added Member To Class: ClassName=C3_Nets Member=Wire NetC3_1
+Added Member To Class: ClassName=D1_Nets Member=Wire NetC3_1
+Added Member To Class: ClassName=R4_Nets Member=Wire NetC3_1
+Added Member To Class: ClassName=U4_Nets Member=Wire NetC3_1
+Added Member To Class: ClassName=C3_Nets Member=Wire NetC3_2
+Added Member To Class: ClassName=C13_Nets Member=Wire NetC3_2
+Added Member To Class: ClassName=R4_Nets Member=Wire NetC3_2
+Added Member To Class: ClassName=TP3_Nets Member=Wire NetC3_2
+Added Member To Class: ClassName=U4_Nets Member=Wire NetC3_2

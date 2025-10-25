@@ -1,0 +1,42 @@
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=C1
+Removed Member From Class: ClassName=C14_Nets Member=NetC16_1
+Removed Member From Class: ClassName=R9_Nets Member=NetC16_1
+Removed Member From Class: ClassName=U3_Nets Member=NetC16_1
+Removed Member From Class: ClassName=C25_Nets Member=NetC27_1
+Removed Member From Class: ClassName=R11_Nets Member=NetC27_1
+Removed Member From Class: ClassName=U2_Nets Member=NetC27_1
+Removed Member From Class: ClassName=C28_Nets Member=NetC30_2
+Removed Member From Class: ClassName=D2_Nets Member=NetC30_2
+Removed Member From Class: ClassName=U5_Nets Member=NetC30_2
+Removed Member From Class: ClassName=C32_Nets Member=NetC34_2
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C3 K104K15X7RF5TH5
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C4 8p
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C9 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C10 2.2u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C11 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C12 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C13 22n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C14 100p
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C16 100p
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C17 100p
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C20 2.2u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C21 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C22 2.2u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C25 100p
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C26 22p
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C27 10u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C28 0.33u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C31 1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C32 2.2u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C33 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C35 100uF
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C36 100uF
+Added Member To Class: ClassName=C14_Nets Member=Wire NetC14_1
+Added Member To Class: ClassName=R9_Nets Member=Wire NetC14_1
+Added Member To Class: ClassName=U3_Nets Member=Wire NetC14_1
+Added Member To Class: ClassName=C25_Nets Member=Wire NetC25_1
+Added Member To Class: ClassName=R11_Nets Member=Wire NetC25_1
+Added Member To Class: ClassName=U2_Nets Member=Wire NetC25_1
+Added Member To Class: ClassName=C28_Nets Member=Wire NetC28_2
+Added Member To Class: ClassName=D2_Nets Member=Wire NetC28_2
+Added Member To Class: ClassName=U5_Nets Member=Wire NetC28_2

@@ -1,0 +1,53 @@
+Change Component Designator: OldDesignator=TP4 NewDesignator=TP5
+Added Component: Designator=GND1(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=GND2(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=GND3(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP4(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP6(KEYSTONE_5000)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "5000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Test Point Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/5000/Keystone+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=GND1-TP
+Added Pin To Net: NetName=GND Pin=GND2-TP
+Added Pin To Net: NetName=GND Pin=GND3-TP
+Added Pin To Net: NetName=NetC13_2 Pin=TP4-TP
+Added Pin To Net: NetName=NetR18_2 Pin=TP6-TP
+Change Class Name : Old Net Name=C30_Nets New Net Name=GND2_Nets
+Change Class Name : Old Net Name=TP4_Nets New Net Name=TP5_Nets
+Added Class: Name=C30_Nets
+Added Class: Name=GND1_Nets
+Added Class: Name=GND3_Nets
+Added Class: Name=TP4_Nets
+Added Class: Name=TP6_Nets
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component GND1
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component GND2
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component GND3
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component TP5 5000
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component TP6 5000

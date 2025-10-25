@@ -1,0 +1,88 @@
+Added Class: Name=C1_Nets
+Added Class: Name=C2_Nets
+Added Class: Name=C3_Nets
+Added Class: Name=C4_Nets
+Added Class: Name=C5_Nets
+Added Class: Name=C6_Nets
+Added Class: Name=C7_Nets
+Added Class: Name=C8_Nets
+Added Class: Name=C9_Nets
+Added Class: Name=C10_Nets
+Added Class: Name=C11_Nets
+Added Class: Name=C12_Nets
+Added Class: Name=C13_Nets
+Added Class: Name=C14_Nets
+Added Class: Name=C15_Nets
+Added Class: Name=C16_Nets
+Added Class: Name=C17_Nets
+Added Class: Name=C18_Nets
+Added Class: Name=C19_Nets
+Added Class: Name=C20_Nets
+Added Class: Name=C21_Nets
+Added Class: Name=C22_Nets
+Added Class: Name=C23_Nets
+Added Class: Name=C24_Nets
+Added Class: Name=C25_Nets
+Added Class: Name=C26_Nets
+Added Class: Name=C27_Nets
+Added Class: Name=C28_Nets
+Added Class: Name=C29_Nets
+Added Class: Name=C30_Nets
+Added Class: Name=C31_Nets
+Added Class: Name=C32_Nets
+Added Class: Name=C33_Nets
+Added Class: Name=C34_Nets
+Added Class: Name=C35_Nets
+Added Class: Name=C36_Nets
+Added Class: Name=D1_Nets
+Added Class: Name=D2_Nets
+Added Class: Name=D3_Nets
+Added Class: Name=DS1_Nets
+Added Class: Name=DS2_Nets
+Added Class: Name=LED1_Nets
+Added Class: Name=LED2_Nets
+Added Class: Name=P1_Nets
+Added Class: Name=R1_Nets
+Added Class: Name=R2_Nets
+Added Class: Name=R3_Nets
+Added Class: Name=R4_Nets
+Added Class: Name=R5_Nets
+Added Class: Name=R6_Nets
+Added Class: Name=R7_Nets
+Added Class: Name=R8_Nets
+Added Class: Name=R9_Nets
+Added Class: Name=R10_Nets
+Added Class: Name=R11_Nets
+Added Class: Name=R12_Nets
+Added Class: Name=R13_Nets
+Added Class: Name=R14_Nets
+Added Class: Name=R15_Nets
+Added Class: Name=R16_Nets
+Added Class: Name=R17_Nets
+Added Class: Name=R18_Nets
+Added Class: Name=R19_Nets
+Added Class: Name=R20_Nets
+Added Class: Name=R21_Nets
+Added Class: Name=SW1_Nets
+Added Class: Name=U1_Nets
+Added Class: Name=U2_Nets
+Added Class: Name=U3_Nets
+Added Class: Name=U4_Nets
+Added Class: Name=U5_Nets
+Added Class: Name=U6_Nets
+Added Class: Name=U7_Nets
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C24 10u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C25 0.33u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C27 10u
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C28 1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C29 47n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C31 0.1n
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C32 47uF
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C33 100uF
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C34 100uF
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R14 1k2
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R15 2k2
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R17 1k5
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R18 3362P-1-103LF
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component R19 10
+Added Room: Name=Receiver_Design_PCB

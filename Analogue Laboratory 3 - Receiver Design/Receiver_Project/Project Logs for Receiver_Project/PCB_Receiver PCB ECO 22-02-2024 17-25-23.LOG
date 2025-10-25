@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=+12V Pin=DS1-1
+Removed Pin From Net: NetName=-12V Pin=DS2-2
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=DS1
+Removed Member From Class: ClassName=Receiver_Design_PCB Member=DS2
+Removed Member From Class: ClassName=D5_Nets Member=NetC35_1
+Removed Member From Class: ClassName=D4_Nets Member=NetD4_A
+Removed Member From Class: ClassName=D5_Nets Member=NetD4_A
+Removed Member From Class: ClassName=P1_Nets Member=NetD4_A
+Removed Member From Class: ClassName=R21_Nets Member=NetDS2_1
+Change Component Designator: OldDesignator=D4 NewDesignator=D5
+Change Component Designator: OldDesignator=D5 NewDesignator=D7
+Added Component: Designator=D4(LEDRD254W57D500H1070)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/L08R5000Q1/LED+Technology/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "LED Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "L08R5000Q1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/L08R5000Q1/LED+Technology/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D6(LEDRD254W57D500H1070)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/L08R5000Q1/LED+Technology/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "LED Technology"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "L08R5000Q1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/L08R5000Q1/LED+Technology/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=D4-A
+Added Pin To Net: NetName=-12V Pin=D6-C
+Change Net Name : Old Net Name=NetD4_A New Net Name=NetD5_A
+Change Net Name : Old Net Name=NetD4_C New Net Name=NetD5_C
+Added Pin To Net: NetName=NetD4_C Pin=D4-C
+Added Pin To Net: NetName=NetD4_C Pin=R16-2
+Added Net: Name=NetD4_C
+Added Pin To Net: NetName=NetD6_A Pin=D6-A
+Added Pin To Net: NetName=NetD6_A Pin=R21-1
+Added Net: Name=NetD6_A
+Change Class Name : Old Net Name=R20_Nets New Net Name=R16_Nets
+Added Class: Name=D6_Nets
+Added Class: Name=D7_Nets
+Added Class: Name=R20_Nets
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component D3 RED
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component D6 GREEN
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component D7 1N4007
+Added Member To Class: ClassName=D4_Nets Member=Wire +12V
+Added Member To Class: ClassName=D5_Nets Member=Wire NetD5_A
+Added Member To Class: ClassName=P1_Nets Member=Wire NetD5_A
+Added Member To Class: ClassName=D5_Nets Member=Wire NetD5_C
+Added Member To Class: ClassName=R21_Nets Member=Wire NetD6_A

@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=D4_Nets Member=NetD5_C
+Removed Member From Class: ClassName=R16_Nets Member=NetD5_C
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component D4 GREEN
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component D5 RED
+Added Member To Class: ClassName=D4_Nets Member=Wire NetD4_C
+Added Member To Class: ClassName=R16_Nets Member=Wire NetD4_C

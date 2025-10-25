@@ -1,0 +1,97 @@
+Removed Member From Class: ClassName=C25_Nets Member=GND
+Removed Member From Class: ClassName=C30_Nets Member=GND
+Removed Member From Class: ClassName=C35_Nets Member=GND
+Removed Member From Class: ClassName=U6_Nets Member=NetC24_1
+Removed Member From Class: ClassName=R14_Nets Member=NetC24_2
+Removed Member From Class: ClassName=U6_Nets Member=NetC27_2
+Removed Member From Class: ClassName=C28_Nets Member=NetC28_1
+Removed Member From Class: ClassName=R17_Nets Member=NetC28_1
+Removed Member From Class: ClassName=C33_Nets Member=NetC29_1
+Removed Member From Class: ClassName=C34_Nets Member=NetC29_1
+Removed Member From Class: ClassName=U6_Nets Member=NetC29_1
+Removed Member From Class: ClassName=C29_Nets Member=NetC29_2
+Removed Member From Class: ClassName=R19_Nets Member=NetC29_2
+Removed Member From Class: ClassName=C33_Nets Member=NetC32_1
+Removed Member From Class: ClassName=C34_Nets Member=NetC32_1
+Removed Member From Class: ClassName=C35_Nets Member=NetC35_1
+Removed Member From Class: ClassName=D3_Nets Member=NetC35_1
+Removed Member From Class: ClassName=U7_Nets Member=NetC35_1
+Change Component Designator: OldDesignator=C24 NewDesignator=C25
+Change Component Designator: OldDesignator=C25 NewDesignator=C26
+Change Component Designator: OldDesignator=C26 NewDesignator=C27
+Change Component Designator: OldDesignator=C27 NewDesignator=C28
+Change Component Designator: OldDesignator=C28 NewDesignator=C29
+Change Component Designator: OldDesignator=C29 NewDesignator=C30
+Change Component Designator: OldDesignator=C30 NewDesignator=C31
+Change Component Designator: OldDesignator=C31 NewDesignator=C32
+Change Component Designator: OldDesignator=C32 NewDesignator=C33
+Change Component Designator: OldDesignator=C33 NewDesignator=C34
+Change Component Designator: OldDesignator=C34 NewDesignator=C35
+Change Component Designator: OldDesignator=C35 NewDesignator=C36
+Change Component Designator: OldDesignator=C36 NewDesignator=C37
+Added Component: Designator=C24(KEMT-C315-THT-2)
+Add component (AddParameter): Name = "Bandwidth"; Value = "700 KHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case\Package"; Value = "DIP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Channels"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Common Mode Rejection Ratio"; Value = "65 dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.kemet.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://capacitoredge.kemet.com/capedge2/DataSheet/Datasheet-C315C100J2G5TA.pdf?pn=C315C100J2G5TA{BULK}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Aug-16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Dual Supply Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "70 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Supply Voltage"; Value = "16 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Dual Supply Voltage"; Value = "1.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "1.5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Gain Bandwith Product"; Value = "700 KHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "1.2 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Voltage Gain"; Value = "100 dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "30 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Body 3.81 x 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "C315-THT-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate"; Value = "0.3 V\us"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unity Gain Bandwidth Product"; Value = "700 KHz"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetC24_1 New Net Name=NetC25_1
+Change Net Name : Old Net Name=NetC24_2 New Net Name=NetC25_2
+Change Net Name : Old Net Name=NetC27_2 New Net Name=NetC28_2
+Change Net Name : Old Net Name=NetC28_1 New Net Name=NetC29_1
+Change Net Name : Old Net Name=NetC29_1 New Net Name=NetC30_1
+Change Net Name : Old Net Name=NetC29_2 New Net Name=NetC30_2
+Change Net Name : Old Net Name=NetC32_1 New Net Name=NetC33_1
+Change Net Name : Old Net Name=NetC35_1 New Net Name=NetC36_1
+Change Class Name : Old Net Name=C31_Nets New Net Name=C32_Nets
+Change Class Name : Old Net Name=C36_Nets New Net Name=C37_Nets
+Added Class: Name=C31_Nets
+Added Class: Name=C36_Nets
+Added Member To Class: ClassName=Receiver_Design_PCB Member=Component C37 0.1u
+Added Member To Class: ClassName=C29_Nets Member=Wire GND
+Added Member To Class: ClassName=C25_Nets Member=Wire NetC25_1
+Added Member To Class: ClassName=U6_Nets Member=Wire NetC25_1
+Added Member To Class: ClassName=C25_Nets Member=Wire NetC25_2
+Added Member To Class: ClassName=R14_Nets Member=Wire NetC25_2
+Added Member To Class: ClassName=C28_Nets Member=Wire NetC28_2
+Added Member To Class: ClassName=U6_Nets Member=Wire NetC28_2
+Added Member To Class: ClassName=R17_Nets Member=Wire NetC29_1
+Added Member To Class: ClassName=C30_Nets Member=Wire NetC30_1
+Added Member To Class: ClassName=C33_Nets Member=Wire NetC30_1
+Added Member To Class: ClassName=C34_Nets Member=Wire NetC30_1
+Added Member To Class: ClassName=C35_Nets Member=Wire NetC30_1
+Added Member To Class: ClassName=U6_Nets Member=Wire NetC30_1
+Added Member To Class: ClassName=C30_Nets Member=Wire NetC30_2
+Added Member To Class: ClassName=R19_Nets Member=Wire NetC30_2
+Added Member To Class: ClassName=C33_Nets Member=Wire NetC33_1
+Added Member To Class: ClassName=C34_Nets Member=Wire NetC33_1
+Added Member To Class: ClassName=C35_Nets Member=Wire NetC33_1
+Added Member To Class: ClassName=D3_Nets Member=Wire NetC36_1
+Added Member To Class: ClassName=U7_Nets Member=Wire NetC36_1
+Added Room: Name=Receiver_Design_PCB

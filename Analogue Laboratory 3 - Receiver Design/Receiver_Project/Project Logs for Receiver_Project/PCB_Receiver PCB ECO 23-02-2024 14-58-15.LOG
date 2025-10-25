@@ -1,0 +1,4 @@
+Add Component: Footprint Not Found KEYSTONE_5118
+Add Pin To Net: Unknown Pin: Pin TP1-TP
+Added Class: Name=TP1_Nets
+Add Class Member: Failed to add class member : Component TP1 5118

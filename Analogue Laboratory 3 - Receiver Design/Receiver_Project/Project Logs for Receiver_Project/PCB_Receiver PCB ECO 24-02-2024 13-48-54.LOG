@@ -1,0 +1,2 @@
+Added Pin To Net: NetName=+12V Pin=U2-7
+Added Member To Class: ClassName=U2_Nets Member=Wire +12V
