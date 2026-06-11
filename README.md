@@ -3,8 +3,8 @@ The optical receiver is designed with two signal paths: one for oscilloscope mon
 
 ## Layout Characteristics
 The receiver is divided into two signal paths:
-Path 1: Scope/debugging output
-Path 2: Audio output
+- Path 1: Scope/debugging output
+- Path 2: Audio output
 
 ## Design Variables Considered
 The design takes into account the following trade-offs and constraints:
