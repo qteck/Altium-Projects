@@ -37,3 +37,9 @@ Path 2:
 Purpose: Provide audible output with industry grade audio op amp and passive low pass filter in the path.
 
 Stages: TIA → DC blocker / HPF → Sallen-Key Filter 1 → Sallen-Key Filter 2 → LPF2 → LPF3 → Pre-Amplifier → Audio Amplifier
+
+## PCB Front Side
+![Whole System](Images/pcb_design.png)
+
+## System Capture
+![System Capture](Images/optical_receiver.png)
