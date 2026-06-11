@@ -30,8 +30,10 @@ The following techniques are used to improve signal quality, stability, and test
 ## Signal Paths 
 Path 1: 
 Purpose: Receive optical signal and amplify the current from the detector into processable voltage levels using the sullen keys with a scope connection for debugging.
+
 Stages: TIA → DC blocker / HPF → Sallen-Key Filter 1 → Sallen-Key Filter 2 → Scope Output
 
 Path 2: 
 Purpose: Provide audible output with industry grade audio op amp and passive low pass filter in the path.
+
 Stages: TIA → DC blocker / HPF → Sallen-Key Filter 1 → Sallen-Key Filter 2 → LPF2 → LPF3 → Pre-Amplifier → Audio Amplifier
